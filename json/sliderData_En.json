@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "url":"images/slider/slider-1",
+        "heading": "Welcome To VueJs E-Commerce Template",
+        "subTitle": "Two languages or more, English is simple to LTR languages, Arabic is RTL",
+        "desc": "any time you like to register, or to see info about us ... press the logo icon",
+        "btnTitle": "Register",
+        "btnHref": "/register",
+        "btnImage": "images/icons/logo"
+    },
+    {
+        "id": 2,
+        "url":"images/slider/slider-2",
+        "heading": "Awesome, Fast and Responsive Template",
+        "subTitle": "Vue is simple and powerful frmework",
+        "desc": "This is Home Page, you can see featured and speicial products, to return to this page any time press ... ",
+        "btnTitle": "Home (Current Page)",
+        "btnHref": "/",
+        "btnImage": "images/icons/home"
+    },
+    {
+        "id": 3,
+        "url":"images/slider/slider-3",
+        "heading": "Easy Navigate and Search",
+        "subTitle": "Very easy ways to find what you want",
+        "desc": "You can order the products according to price, or search using Search Box. then see product details when click on its image... see all products press ... ",
+        "btnTitle": "Products Page",
+        "btnHref": "/products",
+        "btnImage": "images/icons/products"
+    },
+    {
+        "id": 4,
+        "url":"images/slider/slider-4",
+        "heading": "Try to Search, Buy , and The Basket ...!!!",
+        "subTitle": "Many addition choises you will find in The Basket",
+        "desc": "After you added products to basket, finish your order. The Basket is clear, press ... ",
+        "btnTitle": "Your Basket",
+        "btnHref": "/basket",
+        "btnImage": "images/icons/basket"
+    }
+]
+
+  

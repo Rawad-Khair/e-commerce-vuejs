@@ -1,0 +1,117 @@
+[
+  {
+    "home": {
+      "logo": "E-commerce",
+      "search": "Search",
+      "allCategories": "All Categories",
+      "title1": "Recommend Items",
+      "title2": "Most Visited",
+      "termsOfUse": "Terms of Use",
+      "privecyPolicy": "Privecy Policy",
+      "shoppingSystem": "Shopping System",
+      "departments": "Website Pages",
+      "companyInfo": "Information about Us",
+      "careers": "Careers",
+      "location": "Our Location",
+      "copyright": "Copyright Policy",
+      "page1": "Home",
+      "page2": "Products",
+      "page3": "Basket",
+      "page4": "Register",
+      "thanks": "Thank you for your notes",
+      "overMail": "Contact US",
+      "footer": "All Right Reserved©, Created by Eng.Rawad j. Khair"
+    },
+    "products": {
+      "title": " You Can See All Products or You Can Choose Your Favorite Package",
+      "allBtn": "All",
+      "acc": "from cheaper",
+      "desc": "Expensive to lower",
+      "noOrder": "I don't Care",
+      "maxPrice": "Max Price",
+      "noResult": "There is no prdouct suitable your search"
+    },
+    "productItem": {
+      "inCart": "In Your basket",
+      "addTo": "Add To Basket"
+    },
+    "logup": {
+      "fullname": "Full Name",
+      "fullnamePH": "Enter Your Full Name",
+      "email": "Email",
+      "emailPH": "Enter Yout Email Address",
+      "mobile": "Mobile",
+      "mobilePH": "Enter Your Mobile Number",
+      "address": "Address",
+      "addressPH": "Enter Your Address",
+      "password": "Password",
+      "passwordPH": "Enter Your Password",
+      "password2": "Confirm Password",
+      "password2PH": "Repeat Your Password",
+      "logupBtn": "Log Up",
+      "note": "Please fill all the fields ... Thank You for Register"
+    },
+    "login": {
+      "email": "Email",
+      "emailPH": "Enter Yout Email Address",
+      "password": "Password",
+      "passwordPH": "Enter Your Password",
+      "loginBtn": "Log In",
+      "noAccount": "You don't have previous account .. ",
+      "logupBtn": "Create a New Account"
+    },
+    "basket": {
+      "title": "Your Basket",
+      "product": "Product",
+      "image": "Image",
+      "quantity": "Quantity",
+      "price": "Price",
+      "remove": "Remove",
+      "total": "Total",
+      "clrBasket": "Clear Your Basket",
+      "subTotal": "Sub Total",
+      "tax": "Tax",
+      "final": "Final Total",
+      "emptyBasket": "Opps!!! ... There is no item in your basket"
+    },
+    "confirmClr": {
+      "title": "Are You Sure You Want To Delete All Items...?!!",
+      "cancel": "Cancel",
+      "clear": "Yes"
+    },
+    "details": {
+      "madeby": "Made By",
+      "price": "Price",
+      "info": "Specification",
+      "colors": "Existed Colors",
+      "backBtn": "Back",
+      "inCart": "In The Basket",
+      "addTo": "Add To Basket"
+    },
+    "contact": {
+      "message": "Leave Your Message",
+      "name": "Your Name",
+      "email": "Your Email",
+      "send": "Send"
+    },
+    "about": {
+      "heading": "About This Template",
+      "title1": "This is an E-commerece template that mabye reuse too for other business \"hotels, resturants, shops, ...\"",
+      "title2": "I build it by three web main tools (Html, Css, JS) with VueJs as framework ...",
+      "title3": "I hope You have intersted in it ... if You liked it  or have any notes ... please let me know ...",
+      "overMail": "Contact Me"
+    },
+    "modalbox": {
+      "loading": "Loading Product",
+      "title": "Product added to The Basket ... ",
+      "continue": "Continue Shopping",
+      "basketBtn": "Your Basket"
+    },
+    "errorPage": {
+      "title1": "Sorry ... This Page not Found",
+      "title2": "Please choose a correct link",
+      "title3": "for more details ....",
+      "link": "Home Page"
+    }
+  }
+]
